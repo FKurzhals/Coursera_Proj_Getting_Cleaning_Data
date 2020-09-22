@@ -9,7 +9,7 @@ Site - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+S
 Downloadable files - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Contents:
--CodeBook.md - A code book describing relevant information about the changes  made to the original data as well the steps taken for cleaning and tranforming the dataset.
+- CodeBook.md - A code book describing relevant information about the changes  made to the original data as well the steps taken for cleaning and tranforming the dataset.
 
 - run_analysis.R - The R script created for getting, cleaning and transforming the original files into a tidy dataset. The submitted scrit needs to accomplish the following:
   1. Merges the training and the test sets to create one data set.
