@@ -21,14 +21,14 @@ Date: 2020-09-22
 ### Getting and Cleaning Process
 
 * The objective of the project was to create a R script called run_analysis.R which would do the following:
-        1. Donwload the dataset and unzip it under a folder called UCI HAR Dataset
-        2. Read the features_info, activity_labels and the sets of test and training files into R
-        3. Merge the previously read data frames into one single dataset
-        4. Extract only the variables containing information about the mean and standard deviation for each measurement of the experiment
-        5. Change the activity ID's for their real description over the dataset
-        6. Label the dataset variables to descriptive ones
-        7. From the previously formatted dataset, create a new tidy dataset containing the average of each variable grouped by activity and subject
-        8. Generate a text file from that tidy dataset
+1. Donwload the dataset and unzip it under a folder called UCI HAR Dataset
+2. Read the features_info, activity_labels and the sets of test and training files into R
+3. Merge the previously read data frames into one single dataset
+4. Extract only the variables containing information about the mean and standard deviation for each measurement of the experiment
+5. Change the activity ID's for their real description over the dataset
+6. Label the dataset variables to descriptive ones
+7. From the previously formatted dataset, create a new tidy dataset containing the average of each variable grouped by activity and subject
+8. Generate a text file from that tidy dataset
 
 * The final tidy dataset must contain the following information into one single text file:
         - The subjects groups
