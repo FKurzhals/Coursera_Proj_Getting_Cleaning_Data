@@ -1,8 +1,7 @@
-title: "Coursera Getting and Cleaning Data - Week 4 Course Project"
-author: "FKurzhals"
-date: "22/09/2020"
+# Coursera Getting and Cleaning Data - Week 4 Course Project
 
-## Coursera Getting and Cleaning Data - Week 4 Course Project
+Author: FKurzhals
+Date: 2020-09-22
 
 ### Data Description
 
