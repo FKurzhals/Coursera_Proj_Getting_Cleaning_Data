@@ -53,6 +53,6 @@ Date: 2020-09-22
       - fBodyGyroMag
       - fBodyGyroJerkMag
 + The means and standard deviation measurements previously selected for each feature:
-        - mean(): Mean value
-        - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
-        - std(): Standard deviation
+    - mean(): Mean value
+    - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+    - std(): Standard deviation
