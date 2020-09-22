@@ -32,26 +32,26 @@ Date: 2020-09-22
  8. Generate a text file from that tidy dataset
 
 * The final tidy dataset must contain the following information into one single text file:
- + The subjects groups
- + The activities groups,
- + The features used in the experiment:
-    - tBodyAcc-XYZ
-    - tGravityAcc-XYZ
-    - tBodyAccJerk-XYZ
-    - tBodyGyro-XYZ
-    - tBodyGyroJerk-XYZ
-    - tBodyAccMag
-    - tGravityAccMag
-    - tBodyAccJerkMag
-    - tBodyGyroMag
-    - tBodyGyroJerkMag
-    - fBodyAcc-XYZ
-    - fBodyAccJerk-XYZ
-    - fBodyGyro-XYZ
-    - fBodyAccMag
-    - fBodyAccJerkMag
-    - fBodyGyroMag
-    - fBodyGyroJerkMag
+   + The subjects groups
+   + The activities groups,
+   + The features used in the experiment:
+      - tBodyAcc-XYZ
+      - tGravityAcc-XYZ
+      - tBodyAccJerk-XYZ
+      - tBodyGyro-XYZ
+      - tBodyGyroJerk-XYZ
+      - tBodyAccMag
+      - tGravityAccMag
+      - tBodyAccJerkMag
+      - tBodyGyroMag
+      - tBodyGyroJerkMag
+      - fBodyAcc-XYZ
+      - fBodyAccJerk-XYZ
+      - fBodyGyro-XYZ
+      - fBodyAccMag
+      - fBodyAccJerkMag
+      - fBodyGyroMag
+      - fBodyGyroJerkMag
 + The means and standard deviation measurements previously selected for each feature:
     - mean(): Mean value
     - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
