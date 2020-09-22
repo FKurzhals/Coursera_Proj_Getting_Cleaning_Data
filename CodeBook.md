@@ -1,6 +1,7 @@
 # Coursera Getting and Cleaning Data - Week 4 Course Project
 
 Author: FKurzhals
+
 Date: 2020-09-22
 
 ### Data Description
@@ -34,24 +35,24 @@ Date: 2020-09-22
  + The subjects groups
  + The activities groups,
  + The features used in the experiment:
-  - tBodyAcc-XYZ
-  - tGravityAcc-XYZ
-  - tBodyAccJerk-XYZ
-  - tBodyGyro-XYZ
-  - tBodyGyroJerk-XYZ
-  - tBodyAccMag
-  - tGravityAccMag
-  - tBodyAccJerkMag
-  - tBodyGyroMag
-  - tBodyGyroJerkMag
-  - fBodyAcc-XYZ
-  - fBodyAccJerk-XYZ
-  - fBodyGyro-XYZ
-  - fBodyAccMag
-  - fBodyAccJerkMag
-  - fBodyGyroMag
-  - fBodyGyroJerkMag
+    - tBodyAcc-XYZ
+    - tGravityAcc-XYZ
+    - tBodyAccJerk-XYZ
+    - tBodyGyro-XYZ
+    - tBodyGyroJerk-XYZ
+    - tBodyAccMag
+    - tGravityAccMag
+    - tBodyAccJerkMag
+    - tBodyGyroMag
+    - tBodyGyroJerkMag
+    - fBodyAcc-XYZ
+    - fBodyAccJerk-XYZ
+    - fBodyGyro-XYZ
+    - fBodyAccMag
+    - fBodyAccJerkMag
+    - fBodyGyroMag
+    - fBodyGyroJerkMag
 + The means and standard deviation measurements previously selected for each feature:
-  - mean(): Mean value
-  - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
-  - std(): Standard deviation
+    - mean(): Mean value
+    - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+    - std(): Standard deviation
