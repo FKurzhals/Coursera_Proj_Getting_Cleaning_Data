@@ -56,3 +56,7 @@ Date: 2020-09-22
     - mean(): Mean value
     - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
     - std(): Standard deviation
+
+### Final Result
+
+The output of the R script is a tidy dataset containing the Groups of activities and subjects and their respective measurements means for each of the features.
